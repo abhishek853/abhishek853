@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/ZhQx3cf.jpeg" alt="banner" width="100%" />
+  <img width="740" height="416" alt="image" src="https://github.com/user-attachments/assets/cecdae21-dda1-4106-b81b-7e9431a686aa" />
+
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4c8bf5;">Abhishek Wankhade</span></h1>
