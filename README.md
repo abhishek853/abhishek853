@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-<img width="1280" height="520" alt="image" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
+<img width="1280" height="470" alt="image" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 </p>
 
